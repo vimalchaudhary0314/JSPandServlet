@@ -30,25 +30,6 @@ This project demonstrates **MVC architecture**, **CRUD operations**, **database 
 
 ---
 
-## 📁 Project Structure
-
-src/main/java
-├── controller
-│ └── UserController.java
-├── dao
-│ └── UserDao.java
-├── service
-│ └── UserService.java
-├── model
-│ └── User.java
-├── config
-│ ├── HibernateConfig.java
-│ └── WebConfig.java
-
-src/main/webapp
-├── WEB-INF
-│ ├── views
-│ │ ├── login.jsp
 │ │ ├── register.jsp
 │ │ ├── dashboard.jsp
 │ └── web.xml
