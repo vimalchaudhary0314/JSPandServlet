@@ -30,7 +30,3 @@ This project demonstrates **MVC architecture**, **CRUD operations**, **database 
 
 ---
 
-│ │ ├── register.jsp
-│ │ ├── dashboard.jsp
-│ └── web.xml
-
